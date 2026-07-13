@@ -17,3 +17,5 @@ Now First We are Creating the file sturacture as follow -
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+__init__.py
+Makes the tests directory a Python package (optional but common).
